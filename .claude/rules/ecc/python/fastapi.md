@@ -3,6 +3,7 @@ paths:
   - "**/app/**/*.py"
   - "**/fastapi/**/*.py"
   - "**/*_api.py"
+  - "**/rag_docs_api/**/*.py"
 ---
 # FastAPI Rules
 
